@@ -12,7 +12,7 @@ const Service = (props) => {
             <Card sx={{ minWidth: 275, border: 0, boxShadow: 0 }}>
                 <CardMedia
                     component="img"
-                    style={{ width: 'auto', height: '80px', margin: '0 auto' }}
+                    style={{ width: 'auto', height: '80px', m: '0 auto' }}
                     image={img}
                     alt="green iguana"
                 />
